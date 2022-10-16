@@ -1,1 +1,1 @@
-# CSE431
+# Course: CSE431
