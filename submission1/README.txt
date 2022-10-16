@@ -1,4 +1,4 @@
-#Assignment O1
+#Assignment O1: Task 01
 
 Link to unlisted youtube video: 
 https://youtu.be/XRW0uq7crl4
