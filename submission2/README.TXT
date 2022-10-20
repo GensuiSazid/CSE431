@@ -14,6 +14,6 @@ Group Number:
 12
 
 Group Members:
-16301003 Name Sazid Hasan Tonmoy
-19301083 Name Abdulla Al-Amin
-19301173 Name Tasnim Sultana
+16301003 Sazid Hasan Tonmoy
+19301083 Abdulla Al-Amin
+19301173 Tasnim Sultana
