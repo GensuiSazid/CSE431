@@ -1,7 +1,7 @@
 Link to unlisted youtube video:
 
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1OTs5C1XktBxMD7kAA3ZTFrG1b2U5T5ZQeB4bmk0mcf4/edit?usp=sharing
 
 
 Paper title: Cross-Domain Review Generation for Aspect-Based Sentiment Analysis
