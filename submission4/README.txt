@@ -24,7 +24,6 @@ Conference URL: https://www.sigapp.org/sac/sac2023/index.html
 
 Overleaf: https://www.overleaf.com/read/ykstgngynhzq
 
-Plagiarism Report: 
 
 
 Group Number:
