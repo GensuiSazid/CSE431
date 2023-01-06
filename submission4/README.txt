@@ -5,7 +5,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
@@ -23,9 +23,9 @@ Conference URL:
 http://confsite/...
 
 Group Number:
-0
+12
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
+16301003 Sazid Hasan Tonmoy
+19301083 Abdulla Al-Amin
+19301173 Tasnim Sultana
